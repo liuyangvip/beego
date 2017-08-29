@@ -58,3 +58,5 @@ Congratulations! You've just built your first **beego** app.
 
 beego source code is licensed under the Apache Licence, Version 2.0
 (http://www.apache.org/licenses/LICENSE-2.0.html).
+
+# CHANGES
